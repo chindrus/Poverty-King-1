@@ -1,1 +1,1 @@
-Worker: discord.js
+Worker: index.js
