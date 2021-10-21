@@ -1,7 +1,6 @@
-require('dotenv').config();
+/require('dotenv').config()
 const { Client, MessageEmbed } = require('discord.js');
 const client = new Client({ partials: ['MESSAGE', 'REACTION']});
-client.login(process.env.BOT_TOKEN);
 client . autentificare ( proces . env . ODg0NTE5Njk5NjEyODMxNzY1.YTZrKQ.AnyAhpQeyeOxAuNr2CqSujBR3n0 ) ;
 
 client.on('ready', () => {
